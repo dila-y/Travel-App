@@ -1,4 +1,6 @@
-                                                                                                                                                                                                                                                                  # **Frontend Description** 
+                                                                                                                                                                                    
+                                                                                                                                                                            #**Frontend Description** 
+                                                                                                                                                                            
 The Travel App presents a user-friendly web application crafted with the React.js framework and styled using Scss. The frontend design is dedicated to delivering a seamless user experience, featuring intuitive navigation and a variety of functionalities aimed at enriching user interaction.
 
 Key Features
@@ -29,12 +31,13 @@ Explore the functionalities of app by following these simple steps:
 
 1. Clone the repository:
 git clone https://github.com/Erbora/software-engineering-project.git
+
 cd ‘frontend’ folder
 
-2. Install Dependencies: 
+3. Install Dependencies: 
     npm install 
 
-3. Start the application
+4. Start the application
     npm run dev
 
 
