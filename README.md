@@ -1,4 +1,5 @@
  ##  **Frontend Description** 
+ 
 The Travel App presents a user-friendly web application crafted with the React.js framework and styled using Scss. The frontend design is dedicated to delivering a seamless user experience, featuring intuitive navigation and a variety of functionalities aimed at enriching user interaction.
 
 Key Features
