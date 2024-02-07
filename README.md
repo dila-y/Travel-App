@@ -42,7 +42,7 @@ Explore the functionalities of app by following these simple steps:
 
 Discover the user-centric design and seamless experience that our app has to offer. Feel free to reach out with any questions or feedback. 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## **Visual Overview**
 
 ![Img](https://github.com/dila-y/Travel-App/blob/main/travel%20app/readme-img/Screenshot%201.png)
 ![Img1](https://github.com/dila-y/Travel-App/blob/main/travel%20app/readme-img/Screenshot%202.png)
