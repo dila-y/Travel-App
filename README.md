@@ -40,5 +40,18 @@ Explore the functionalities of app by following these simple steps:
     npm run dev
 
 
-Discover the user-centric design and seamless experience that our app has to offer. Feel free to reach out with any questions or feedback. Thank you for exploring our application!
+Discover the user-centric design and seamless experience that our app has to offer. Feel free to reach out with any questions or feedback. 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Img](https://github.com/dila-y/Travel-App/blob/main/travel%20app/readme-img/Screenshot%201.png)
+![Img1](https://github.com/dila-y/Travel-App/blob/main/travel%20app/readme-img/Screenshot%202.png)
+![Img2](https://github.com/dila-y/Travel-App/blob/main/travel%20app/readme-img/Screenshot%203.png)
+![Img3](https://github.com/dila-y/Travel-App/blob/main/travel%20app/readme-img/Screenshot%204.png)
+![Img4](https://github.com/dila-y/Travel-App/blob/main/travel%20app/readme-img/Screenshot%205.png)
+
+
+
+
+
 
